@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wilcoboode
+- 👀 I’m interested in mixed reality, photogrammetry, and data sciences
+- 🌱 I’m currently learning on the use of photogrammetry for visualizing real-life objects in virtual environments
+- 💞️ I’m not actively looking to collaborate on anything, but love to use opensource tools, and provide feedback to its developers
+- 📫 You can reach me via my github account, or the contact details on my (totally unfinished) website 
